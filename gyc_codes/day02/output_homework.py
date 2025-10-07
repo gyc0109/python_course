@@ -1,0 +1,20 @@
+print("gyc")
+
+print()
+
+print("春眠不觉晓") 
+print("处处闻啼鸟")
+print("夜来风雨声")
+print("花落知多少")
+
+print()
+
+print("春眠不觉晓,处处闻啼鸟.夜来风雨声,花落知多少.")
+
+print()
+
+
+print("春眠不觉晓", end=",") 
+print("处处闻啼鸟", end=".")
+print("夜来风雨声", end=".")
+print("花落知多少", end=".")
